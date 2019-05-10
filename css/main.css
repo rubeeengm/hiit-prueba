@@ -70,11 +70,19 @@ hr {
   left: 14.5em;
   transform: translate(-50%, -50%);
   background: #ff6319;
+  color: white;
 }
 
 .seccion1-button:hover{
-  color: white;
   background: #ff6319;
+  border: 1px solid #ff6319; 
+  color: white;
+}
+
+.seccion1-button:active{
+  background: #ff6319;
+  border: 1px solid #ff6319; 
+  color: white;
 }
 
 #image2 {
@@ -195,4 +203,28 @@ hr {
   left: 70em;
   transform: translate(-50%, -50%);
   color: white;
+}
+
+.enviar {
+  background: #ff6319;
+  border: 1px solid #ff6319;
+  color: white;
+}
+
+.enviar:hover {
+  background: #ff6319;
+  border: 1px solid #ff6319; 
+  color: white;
+}
+
+.enviar:active {
+  background: #ff6319;
+  border: 1px solid #ff6319; 
+  color: white;
+}
+
+
+.formulario {
+  margin-top: 7%;
+  margin-bottom: 7%;
 }
