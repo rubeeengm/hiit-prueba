@@ -1,0 +1,198 @@
+/* Background de barra de navegación */
+.app-navbar {
+	background: #252525;
+  width: 100%;
+  padding: 0px;
+}
+
+.app-navbar-logo {
+    margin-left: 10%;
+}
+
+.app-navbar-acceso {
+    color: white;
+    margin-right: 10%;
+}
+
+.app-navbar-acceso:hover {
+    color: #ff6319;
+}
+
+ul {
+  list-style-type: none;
+}
+
+footer {
+  background: #252525;
+}
+
+.app-footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 100%;
+}
+
+.app-footer > li {
+    color: #f1f5f7;
+}
+
+.app-footer > li > a {
+    color: #f1f5f7;
+}
+
+hr {
+    background-color: #f1f5f7;
+}
+
+@media(max-width: 768px){
+    .app-footer {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+}
+
+#image {
+  
+    width: 100%;
+}
+
+.seccion1-text {
+  position: absolute;
+  top: 37%;
+  left: 20em;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.seccion1-button {
+  position: absolute;
+  top: 65%;
+  left: 14.5em;
+  transform: translate(-50%, -50%);
+  background: #ff6319;
+}
+
+.seccion1-button:hover{
+  color: white;
+  background: #ff6319;
+}
+
+#image2 {
+  padding-right: 10px;
+}
+
+.seccion2-img-abajo {
+  position: relative;
+  padding-right: 10px;
+  left: 4.7em;
+}
+
+.seccion2 {
+  margin-top: 7%;
+}
+
+.seccion2-text {
+  position: absolute;
+  top: 45%;
+  left: 20em;
+  transform: translate(-50%, -50%);
+  color: #000;
+}
+
+.seccion2-text > h3{
+  color: #ff6319;
+}
+
+.seccion3 {
+  margin-top: 7%;
+}
+
+.seccion3-lista {
+  position: absolute;
+  top: 46%;
+  left: 20em;
+  transform: translate(-50%, -50%);
+  color: #fff;
+}
+
+.seccion5 {
+  margin-top: 7%;
+}
+
+#image3 {
+    width: 75%;
+}
+
+.seccion5-text {
+  position: absolute;
+  top: 50%;
+  left: 30em;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+#image5 {
+  position: absolute;
+  top: 50%;
+  left: 50em;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.seccion6 {
+  margin-top: 7%;
+  margin-bottom: 7%;
+}
+
+#image4 {
+    width: 75%;
+    float: right;
+}
+
+.seccion6-text {
+  position: absolute;
+  top: 50%;
+  left: 30em;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+#image6 {
+  position: absolute;
+  top: 40%;
+  left: 50em;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+#image7 {
+  position: absolute;
+  top: 50%;
+  left: 60em;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+#image8 {
+  position: absolute;
+  top: 40%;
+  left: 70em;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.seccion7-text {
+  position: absolute;
+  top: 73%;
+  left: 50em;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+.seccion8-text {
+  position: absolute;
+  top: 73%;
+  left: 70em;
+  transform: translate(-50%, -50%);
+  color: white;
+}
