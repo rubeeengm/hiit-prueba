@@ -52,7 +52,6 @@ hr {
 }
 
 #image {
-  
     width: 100%;
 }
 
@@ -91,7 +90,6 @@ hr {
 
 .seccion2-img-abajo {
   position: relative;
-  padding-right: 10px;
   left: 4.7em;
 }
 
@@ -115,9 +113,13 @@ hr {
   margin-top: 7%;
 }
 
+.no-padding {
+  padding: 0px;
+}
+
 .seccion3-lista {
   position: absolute;
-  top: 46%;
+  top: 50%;
   left: 20em;
   transform: translate(-50%, -50%);
   color: #fff;
@@ -128,13 +130,13 @@ hr {
 }
 
 #image3 {
-    width: 75%;
+    width: 85%;
 }
 
 .seccion5-text {
   position: absolute;
   top: 50%;
-  left: 30em;
+  left: 25em;
   transform: translate(-50%, -50%);
   color: white;
 }
